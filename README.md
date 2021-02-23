@@ -1,4 +1,4 @@
-# Hi there, I'm Artem Medianyk 👋
+# Hi there, I'm Artem Medianyk  :wink:
  
 #### :heart: I'm passionate about:
 
