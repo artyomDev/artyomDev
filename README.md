@@ -2,10 +2,10 @@
  
 #### :heart: I'm passionate about:
 
-- React / React Native / Angular / Vue
+- React / React Native / Redux / Saga / Apollo GraphQL
 - Express / Laravel / Django
-- Mysql / Postgresql
-- GCP / AWS / AZURE / Heroku
+- Mysql / Postgresql / MongoDB
+- GCP / AWS / AZURE / Heroku / Github / GitLab / Jira
 
 #### :computer: Programming languages:
 
